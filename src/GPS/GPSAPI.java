@@ -1,4 +1,4 @@
-package GPS_UPDATED;
+package GPS;
 
 import java.util.HashMap;
 import java.util.Map;
